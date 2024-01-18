@@ -4,3 +4,4 @@ git config -- user.name setting up username
 git config -- user.email setting up email
 git add  "filename" =adding files to area
 git commit -m "commit Message" commit files in staging area
+git rm --cached filename = remove file from staging area
