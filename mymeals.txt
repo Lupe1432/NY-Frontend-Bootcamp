@@ -1,2 +1,3 @@
 Breakfast : eggs and toast
 Lunch : Italian Sub
+Dinner : rice and chicken
