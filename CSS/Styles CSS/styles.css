@@ -1,0 +1,23 @@
+span {background-color: aquamarine;}
+li {background-color: red;}
+
+
+
+
+
+.hoverbtn { 
+    background-color: black;
+    color:white ;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+.bigletter::first-letter
